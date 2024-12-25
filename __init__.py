@@ -1,1 +1,1 @@
-__all__ = ["basic", "advanced"]
+__all__ = ["quare", "advanced"]
