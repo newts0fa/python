@@ -5,7 +5,7 @@
 ## Установка
 
 ```bash
-pip install calculator-pkg-GDVevo
+pip install calculator-pkg-newts0fa
 ```
 
 ## Использование
